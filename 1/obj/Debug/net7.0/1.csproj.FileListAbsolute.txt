@@ -1,5 +1,0 @@
-/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson1/1/obj/Debug/net7.0/1.csproj.AssemblyReference.cache
-/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson1/1/obj/Debug/net7.0/1.GeneratedMSBuildEditorConfig.editorconfig
-/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson1/1/obj/Debug/net7.0/1.AssemblyInfoInputs.cache
-/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson1/1/obj/Debug/net7.0/1.AssemblyInfo.cs
-/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson1/1/obj/Debug/net7.0/1.csproj.CoreCompileInputs.cache
